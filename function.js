@@ -2,27 +2,27 @@ let movies = [
     {
         name: "falcon and the winter soldier",
         des: "Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience.",
-        image: "images/slider 2.png"
+        image: "images/slider 2.PNG"
     },
     {
         name: "loki",
         des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, libero.",
-        image: "images/slider 1.png"
+        image: "images/slider 1.PNG"
     },
     {
         name: "wanda vision",
         des: "WandaVision is a new Marvel Studios series that follows Wanda Maximoff and Vision — two super-powered beings living their ideal suburban life, which is disrupted when a series of mysterious events begin to unfold.",
-        image: "images/slider 3.png"
+        image: "images/slider 3.PNG"
     },
     {
         name: "Raya",
         des: "Kelly Marie Tran as Raya, the fierce and virtuous warrior princess of Heart who has been training to become a Guardian of the Dragon Gem..",
-        image: "images/slider 4.png"
+        image: "images/slider 4.PNG"
     },
     {
         name: "Luca",
         des: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, libero.  ",
-        image: "images/slider 5.png"
+        image: "images/slider 5.PNG"
     }
 ];
 const carousel = document.querySelector('.carousel'); //creating caraousel element
